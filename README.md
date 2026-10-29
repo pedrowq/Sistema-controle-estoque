@@ -22,7 +22,7 @@ As instruções de instalação e execução serão documentadas após a verific
 ## Demonstração
 ### Tela de listagem de produtos
 
-![Lista de Produtos](lista-produtos.png.png)
+![lista-protudos.png.png](lista-protudos.png.png)
 
 ## Desenvolvedores
 Projeto desenvolvido em colaboração por Pedro Henrique e Angélica Queiroz.
